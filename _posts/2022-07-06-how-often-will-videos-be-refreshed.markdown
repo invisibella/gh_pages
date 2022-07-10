@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How often will videos be rotated?"
-date:   2022-07-01 15:59:16 -0400
+date:   2022-07-06 15:59:16 -0400
 category: FAQ
 ---
 All movies will be refreshed at the beginning of each month.  
